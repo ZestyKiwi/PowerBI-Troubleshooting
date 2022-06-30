@@ -1,1 +1,1 @@
-IF([Due Date]>TODAY(),"Overdue","Not Overdue")
+=IF([Due Date]>TODAY(),"Overdue","Not Overdue")
